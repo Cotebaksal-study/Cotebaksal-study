@@ -5,6 +5,6 @@
 
 |no|문제|파일명|날짜|
 |-----|------------------------------------------------------------------|----------|----------|
-| 001 | [1330번: 두 수 비교하기](https://www.acmicpc.net/problem/1330)    | 1330.java | 21/04/05 |
-| 002 | [2753번: 윤년](https://www.acmicpc.net/problem/2753)             | 2753.java | 21/04/07 |
-| 003 | [2884번: 알람 시계](https://www.acmicpc.net/problem/2884)        | 2884.java | 21/04/10 |
+| 001 | [1330번: 두 수 비교하기](https://www.acmicpc.net/problem/1330)    | 1330.cpp | 21/04/05 |
+| 002 | [2753번: 윤년](https://www.acmicpc.net/problem/2753)             | 2753.cpp | 21/04/07 |
+| 003 | [2884번: 알람 시계](https://www.acmicpc.net/problem/2884)        | 2884.cpp | 21/04/10 |
