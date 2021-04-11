@@ -9,5 +9,5 @@
 | 001 | [1330번: 두 수 비교하기](https://www.acmicpc.net/problem/1330)    | 21/04/05 |✅|✅|✅|✅|✅|
 | 002 | [2884번: 알람 시계](https://www.acmicpc.net/problem/2884)         | 21/04/07 |✅|✅|✅|✅|✅|
 | 003 | [2753번: 윤년](https://www.acmicpc.net/problem/2753)              | 21/04/10 |✅|✅|✅|✅|✅|
-| 주말01_1| | |✅|✅|✅|✅|✅|
-| 주말01_2| | |✅|✅|✅|✅|✅|
+| 주말01_1|프로그래머스_[문자열다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | |✅|✅|✅|✅|✅|
+| 주말01_2|프로그래머스_[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | |✅|✅|✅|✅|✅|
