@@ -14,7 +14,9 @@
 
 
 ### 백준
-1. #1330번: 두 수 비교하기](https://www.acmicpc.net/problem/1330)
-2. #2884번: 알람 시계](https://www.acmicpc.net/problem/2884)
-3. #2753번:  윤년](https://www.acmicpc.net/problem/2753)
+1. #1330번
++ 두 수 비교하기](https://www.acmicpc.net/problem/1330)
+3. #2884번 
++ 알람 시계(https://www.acmicpc.net/problem/2884)
+40 #2753번:  윤년](https://www.acmicpc.net/problem/2753)
 
