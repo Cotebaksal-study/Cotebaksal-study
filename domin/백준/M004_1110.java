@@ -1,24 +1,17 @@
 package dm210412;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
 
+// 선언해놓고 안쓴 구문 수정
 public class Main {
 	public static void main(String[] args) throws Exception{
-		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		String input = br.readLine();
 	
 		int result = plusCycle(input);
 		System.out.println(result);
 		br.close();
-		bw.flush();
-		bw.close();
-		
-		
 	}
 	
 	public static int plusCycle(String input) {
