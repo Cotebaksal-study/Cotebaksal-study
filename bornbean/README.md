@@ -14,5 +14,5 @@
 
 |no|문제|폴더명|날짜|
 |------|--------------------------------------------------------------------------------|---------------|----------|
-| 001 | [문자열다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)   |     | 21/04/11 |
-| 002 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)         |     | 21/04/11 |
+| 001 | [문자열다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)   |  Programmers/001_문자열다루기기본.java   | 21/04/11 |
+| 002 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)         |  Programmers/001_짝수와홀수.java   | 21/04/11 |
