@@ -1,6 +1,15 @@
 # Cotebaksal-study
 
 
+## ⏰ 일정표 (21.04.05 ~ )
+
+| |백준|프로그래머스|
+|-----------|--------------------------------------------------------------------------------|---------------|
+| 1주차<br/> (04.05~04.11)| [if문](https://www.acmicpc.net/step/4)                   | [문자열다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)<br/>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |
+| 2주차<br/> (04.12~04.18) | [for문](https://www.acmicpc.net/step/3)<br/>[while문](https://www.acmicpc.net/step/2)            |  |
+
+
+
 ## 푼 문제
 [CoteBakSal](https://www.notion.so/0dda0cc4b3274c22a0fc9bec578e95ca)
 
