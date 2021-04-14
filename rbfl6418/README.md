@@ -10,6 +10,8 @@
 | 002 | [14681번: 사분면 고르기](https://www.acmicpc.net/problem/14681)        | no2.java | 21/04/07 |
 | 003 | [2884번: 알람 시계](https://www.acmicpc.net/problem/2884)               | no3.java | 21/04/10 |
 | 004 | [15552번: 빠른 A+B](https://www.acmicpc.net/problem/15552)               | no4.java | 21/04/12 |
+| 005 | [10871번: X보다 작은 수](https://www.acmicpc.net/problem/10871)               | no5.java | 21/04/14 |
+
 
 
 #### 프로그래머스
