@@ -8,6 +8,7 @@
 | 002 | [2884번: 알람 시계](https://www.acmicpc.net/problem/2884)               | Baekjoon/001_if_2884.java | 21/04/07 |
 | 003 | [14681번 : 사분면 고르기](https://www.acmicpc.net/problem/14681)        | Baekjoon/001_if_14681.java | 21/04/10 |
 | 004 | [2438번 : 별 찍기 - 1](https://www.acmicpc.net/problem/2438)           | Baekjoon/002_for_2438.java | 21/04/13 |
+| 005 | [10871번 : X보다 작은 수](https://www.acmicpc.net/problem/10871)           | Baekjoon/002_for_10871.java | 21/04/14 |
 
 
 ### Programmers
