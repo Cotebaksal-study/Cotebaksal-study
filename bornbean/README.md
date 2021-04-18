@@ -17,3 +17,5 @@
 |:------:|:--------------------------------------------------------------------------------:|:---------------:|:----------:|
 | 001 | [문자열다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)   |  Programmers/001_문자열다루기기본.java   | 21/04/11 |
 | 002 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)         |  Programmers/001_짝수와홀수.java   | 21/04/11 |
+| 003 | [두 정수의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)   |  Programmers/002_두정수의합.java   | 21/04/18 |
+| 004 | [수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922)         |  Programmers/002_수박수박수.java   | 21/04/18 |
