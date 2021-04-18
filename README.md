@@ -6,8 +6,8 @@
 | |백준|프로그래머스|
 |:-----------:|:--------------------------------------------------------------------------------:|:---------------:|
 | 1주차<br/> (04.05~04.11)| [if문](https://www.acmicpc.net/step/4)                   | [문자열다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)<br/>[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |
-| 2주차<br/> (04.12~04.18) | [for문](https://www.acmicpc.net/step/3)<br/>[while문](https://www.acmicpc.net/step/2)            |  |
-
+| 2주차<br/> (04.12~04.18) | [for문](https://www.acmicpc.net/step/3)<br/>[while문](https://www.acmicpc.net/step/2)            | [두 정수의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)<br/>[수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922) |
+| 3주차<br/> (04.12~04.18) | [1차원 배열](https://www.acmicpc.net/step/6)<br/>[함수](https://www.acmicpc.net/step/5)            |  |
 
 
 ## 푼 문제
@@ -33,3 +33,9 @@
 
 2. 짝수와 홀수
     [https://programmers.co.kr/learn/courses/30/lessons/12937](https://programmers.co.kr/learn/courses/30/lessons/12937)
+    
+3. 두 정수의 합
+    [https://programmers.co.kr/learn/courses/30/lessons/12912](https://programmers.co.kr/learn/courses/30/lessons/12912)
+    
+4. 수박수박수
+    [https://programmers.co.kr/learn/courses/30/lessons/12922](https://programmers.co.kr/learn/courses/30/lessons/12922)
