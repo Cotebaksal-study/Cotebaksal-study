@@ -10,6 +10,7 @@
 | 004 | [2438번 : 별 찍기 - 1](https://www.acmicpc.net/problem/2438)           | Baekjoon/002_for_2438.java | 21/04/13 |
 | 005 | [10871번 : X보다 작은 수](https://www.acmicpc.net/problem/10871)           | Baekjoon/002_for_10871.java | 21/04/14 |
 | 006 | [10951번 : A+B - 4](https://www.acmicpc.net/problem/10951)           | Baekjoon/002_while_10951.java | 21/04/16 |
+| 007 | [1546번 : 평균](https://www.acmicpc.net/problem/1546)           | Baekjoon/003_array_1546.java | 21/04/19 |
 
 ### Programmers
 
