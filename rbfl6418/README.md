@@ -12,7 +12,7 @@
 | 004 | [15552번: 빠른 A+B](https://www.acmicpc.net/problem/15552)               | no4.java | 21/04/12 |
 | 005 | [10871번: X보다 작은 수](https://www.acmicpc.net/problem/10871)               | no5.java | 21/04/14 |
 | 006 | [10952번: A+B -5](https://www.acmicpc.net/problem/10952)               | no5.java | 21/04/16 |
-| 007 | [ ]( )               | no7.java | 21/04/ |
+| 007 | [10818번: 최소,최대 ](https://www.acmicpc.net/problem/10818)               | no7.java | 21/04/19 |
 
 
 
