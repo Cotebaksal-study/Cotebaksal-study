@@ -13,6 +13,8 @@
 | 005 | [10871번: X보다 작은 수](https://www.acmicpc.net/problem/10871)               | no5.java | 21/04/14 |
 | 006 | [10952번: A+B -5](https://www.acmicpc.net/problem/10952)               | no5.java | 21/04/16 |
 | 007 | [10818번: 최소,최대 ](https://www.acmicpc.net/problem/10818)               | no7.java | 21/04/19 |
+| 008 | [2562번: 최댓값 ](https://www.acmicpc.net/problem/2562)               | no8.java | 21/04/20 |
+| 009 | [2577번: 숫자의 개수 ](https://www.acmicpc.net/problem/2577)               | no9.java | 21/04/21 |
 
 
 
