@@ -15,7 +15,7 @@
 | 007 | [10818번: 최소,최대 ](https://www.acmicpc.net/problem/10818)               | no7.java | 21/04/19 |
 | 008 | [2562번: 최댓값 ](https://www.acmicpc.net/problem/2562)               | no8.java | 21/04/20 |
 | 009 | [2577번: 숫자의 개수 ](https://www.acmicpc.net/problem/2577)               | no9.java | 21/04/21 |
-| 009 | [8958번: 숫자의 개수 ](https://www.acmicpc.net/problem/8958)               | no10.java | 21/04/22 |
+| 009 | [8958번: OX퀴즈 ](https://www.acmicpc.net/problem/8958)               | no10.java | 21/04/22 |
 
 
 
