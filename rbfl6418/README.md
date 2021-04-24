@@ -16,7 +16,9 @@
 | 008 | [2562번: 최댓값 ](https://www.acmicpc.net/problem/2562)               | no8.java | 21/04/20 |
 | 009 | [2577번: 숫자의 개수 ](https://www.acmicpc.net/problem/2577)               | no9.java | 21/04/21 |
 | 010 | [8958번: OX퀴즈 ](https://www.acmicpc.net/problem/8958)               | no10.java | 21/04/22 |
-| 011 | [15596번: 정수 N개의 합](https://www.acmicpc.net/problem/15596)               | no11.java | 21/04/24 |
+| 011 | [1546번: 평균](https://www.acmicpc.net/problem/1546)               | no11.java | 21/04/23 |
+| 012 | [15596번: 정수 N개의 합](https://www.acmicpc.net/problem/15596)               | no12.java | 21/04/24 |
+
 
 
 
