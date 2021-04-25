@@ -1,0 +1,22 @@
+import java.util.*;
+
+public class Solution {
+    public int[] solution(int []arr) {
+        int[] answer = {};
+        int cursor = 10; // 0~9 이기 때문에 초기값 10으로 설정
+        List<Integer> answerList = new ArrayList<Integer>();
+        
+        for(int i=0; i<arr.length; i++) {
+            if (arr[i] != cursor) {
+                answerList.add(arr[i]);
+                cursor = arr[i];
+            }
+        }
+        answer = new int[answerList.size()];
+        for (int i=0; i<answerList.size(); i++) {
+            answer[i] = answerList.get(i);
+        }
+
+        return answer;
+    }
+}
