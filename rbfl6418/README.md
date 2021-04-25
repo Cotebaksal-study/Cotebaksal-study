@@ -29,3 +29,5 @@
 | 002 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)        | no2.java | 21/04/11 |
 | 003 | [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)               | no3.java | 21/04/18|
 | 004 | [수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)               | no4.java | 21/04/18 |
+| 005 | [평균구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)               | no5.java | 21/04/25 |
+| 006 | [자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)               | no6.java | 21/04/25 |
