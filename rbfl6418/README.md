@@ -19,6 +19,8 @@
 | 011 | [1546번: 평균](https://www.acmicpc.net/problem/1546)               | no11.java | 21/04/23 |
 | 012 | [15596번: 정수 N개의 합](https://www.acmicpc.net/problem/15596)               | no12.java | 21/04/24 |
 | 013 | [2675번: 문자열 반복](https://www.acmicpc.net/problem/2675)               | no13.java | 21/04/26 |
+| 014 | [10809번: 알파벳 찾기](https://www.acmicpc.net/problem/10809)               | no14.java | 21/04/28 |
+
 
 
 
