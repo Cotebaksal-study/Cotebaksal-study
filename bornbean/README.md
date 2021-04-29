@@ -12,6 +12,9 @@
 | 006 | [10951번 : A+B - 4](https://www.acmicpc.net/problem/10951)           | Baekjoon/002_while_10951.java | 21/04/16 |
 | 007 | [1546번 : 평균](https://www.acmicpc.net/problem/1546)           | Baekjoon/003_array_1546.java | 21/04/19 |
 | 008 | [4673번 : 셀프 넘버](https://www.acmicpc.net/problem/4673)           | Baekjoon/003_function_4673.java | 21/04/21 |
+| 009 | [1065번 : ](https://www.acmicpc.net/problem/1065)           | Baekjoon/003_function_1065.java |  |
+| 010 | [1157번 : 단어 공부](https://www.acmicpc.net/problem/1157)           | Baekjoon/004_String_1157.java | 21/04/29 |
+| 011 | [2675번 : 문자열 반복](https://www.acmicpc.net/problem/2675)           | Baekjoon/004_String_2675.java | 21/04/29 |
 
 
 ### Programmers
