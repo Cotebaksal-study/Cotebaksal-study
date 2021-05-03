@@ -25,3 +25,10 @@
 | 014 | [10809번: 알파벳 찾기](https://www.acmicpc.net/problem/10809)       | 10809.cpp | 21/04/28 | 배열 초기화 -> fill_n() | 
 | 015 | [2908번:  상수](https://www.acmicpc.net/problem/2908)              | 2908.cpp | 21/04/30 | getline, stoi | 
 ||||||||||
+| 016 | [2775번:  부녀회장이 될테야](https://www.acmicpc.net/problem/2775)            | 2775.cpp | 21/05/03 | getline, stoi |
+
+#### 프로그래머스
+
+|no|문제|파일명|날짜|비고|
+|-----|------------------------------------------------------------------|----------|----------|-------------------------|
+| 001 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)    | programmers_신규아이디추천.cpp | 21/04/05 |  string 라이브러리 |
