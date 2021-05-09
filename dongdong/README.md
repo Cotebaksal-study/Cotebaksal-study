@@ -26,7 +26,7 @@
 | 015 | [2908번:  상수](https://www.acmicpc.net/problem/2908)              | 2908.cpp | 21/04/30 | | 
 ||||||||||
 | 016 | [2775번:  부녀회장이 될테야](https://www.acmicpc.net/problem/2775)            | 2775.cpp | 21/05/03 | getline, stoi |
-| 017 | [2839번:  부녀회장이 될테야](https://www.acmicpc.net/problem/2839)            | 2839.cpp | 21/05/07 |  |
+| 017 | [2839번:  설탕 배달](https://www.acmicpc.net/problem/2839)            | 2839.cpp | 21/05/07 |  |
 ||||||||||
 #### 프로그래머스
 
