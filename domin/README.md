@@ -7,7 +7,7 @@
 | 002 | [2884번: 알람 시계](https://www.acmicpc.net/problem/2884)                                                | 백준/M002_2884.java | 21/04/07 |
 | 003 | [2753번: 윤년](https://www.acmicpc.net/problem/2753)                                                     | 백준/M003_2753.java | 21/04/09 |
 | J001_1 | [문자열다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)                         | 프로그래머스/J001_1.java    | 21/04/11 |
-| J001_2 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                              | 프로그래머스/J001_2.java    | 21/04/11 |
+| J001_2 | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)                               | 프로그래머스/J001_2.java    | 21/04/11 |
 |||||
 | 004 | [1110번: 더하기 사이클](https://www.acmicpc.net/problem/1110)                                            | 백준/M004_1110.java | 21/04/12 |
 | 005 | [2439번: 별찍기-2](https://www.acmicpc.net/problem/2439)                                                 | 백준/M005_2439.java | 21/04/14 |
@@ -23,15 +23,15 @@
 | J003_3 | [나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)                  | 프로그래머스/J003_3.java    | 21/04/25 |
 | J003_4 | [같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)                           | 프로그래머스/J003_4.java    | 21/04/25 |
 |||||
-| 010 | [11720번: 숫자의 합 ](https://www.acmicpc.net/problem/11720)                            | M010_11720.java | 21/04/26 |
-| 011 | [1157번: 단어 공부](https://www.acmicpc.net/problem/1157)                            | M011_1157.java | 21/04/28 |
-| 012 | [2908번: 상수](https://www.acmicpc.net/problem/2908)                            | M012_2908.java | 21/04/30 |
+| 010 | [11720번: 숫자의 합 ](https://www.acmicpc.net/problem/11720)                                              | M010_11720.java | 21/04/26 |
+| 011 | [1157번: 단어 공부](https://www.acmicpc.net/problem/1157)                                                 | M011_1157.java | 21/04/28 |
+| 012 | [2908번: 상수](https://www.acmicpc.net/problem/2908)                                                      | M012_2908.java | 21/04/30 |
 | J004_1 | [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)                        | J004_1.java | 21/05/02 |
 | J004_2 | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)                          | J004_2.java | 21/05/02 |
 | J004_3 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)                            | J004_3.java | 21/05/02 |
 |||||
-| 013 | [: ](https://www.acmicpc.net/problem/)                             | M013_2869.java | 21/05/03 |
-| 014 | [: ](https://www.acmicpc.net/problem/)                            | M014_2839.java | 21/05/07 |
+| 013 | [2869번: 달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/)                                        | M013_2869.java | 21/05/03 |
+| 014 | [2839번: 설탕 배달](https://www.acmicpc.net/problem/2839)                                                 | M014_2839.java | 21/05/07 |
 | J005_1 | [문자열내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)                      | J005_1.java | 21/05/09 |
 | J005_2 | [자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)                 | J005_2.java | 21/05/09 |
 | J005_3 | [x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)                | J005_3.java | 21/05/09 |
