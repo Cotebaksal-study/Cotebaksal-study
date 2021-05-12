@@ -28,8 +28,8 @@
 | 016 | [2775번:  부녀회장이 될테야](https://www.acmicpc.net/problem/2775)            | 2775.cpp | 21/05/03 | getline, stoi |
 | 017 | [2839번:  설탕 배달](https://www.acmicpc.net/problem/2839)            | 2839.cpp | 21/05/07 |  |
 ||||||||||
-| 017 | [1193:  분수 찾기](https://www.acmicpc.net/problem/1193)            | 1193.cpp | 21/05/10 |  |
-| 018 | [10250:  ACM 호텔](https://www.acmicpc.net/problem/10250)            | 10250.cpp | 21/05/12 | cout.widh() , cout.fill() |
+| 018 | [1193:  분수 찾기](https://www.acmicpc.net/problem/1193)            | 1193.cpp | 21/05/10 |  |
+| 019 | [10250:  ACM 호텔](https://www.acmicpc.net/problem/10250)            | 10250.cpp | 21/05/12 | cout.widh() , cout.fill() |
 #### 프로그래머스
 
 |no|문제|파일명|날짜|비고|
