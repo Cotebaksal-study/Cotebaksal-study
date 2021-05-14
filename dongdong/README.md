@@ -28,10 +28,21 @@
 | 016 | [2775번:  부녀회장이 될테야](https://www.acmicpc.net/problem/2775)            | 2775.cpp | 21/05/03 | getline, stoi |
 | 017 | [2839번:  설탕 배달](https://www.acmicpc.net/problem/2839)            | 2839.cpp | 21/05/07 |  |
 ||||||||||
-| 018 | [1193:  분수 찾기](https://www.acmicpc.net/problem/1193)            | 1193.cpp | 21/05/10 |  |
-| 019 | [10250:  ACM 호텔](https://www.acmicpc.net/problem/10250)            | 10250.cpp | 21/05/12 | cout.widh() , cout.fill() |
+| 018 | [1193:  분수 찾기](https://www.acmicpc.net/problem/1193)            | math1_1193.cpp | 21/05/10 |  |
+| 019 | [10250:  ACM 호텔](https://www.acmicpc.net/problem/10250)            | math1_10250.cpp | 21/05/12 | cout.widh() , cout.fill() |
+| 020 | [2292:  벌집](https://www.acmicpc.net/problem/2292)            | math1_2292.cpp | 21/05/14 | 등비수열 |
 #### 프로그래머스
 
 |no|문제|파일명|날짜|비고|
 |-----|------------------------------------------------------------------|----------|----------|-------------------------|
 | 001 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)    | programmers_신규아이디추천.cpp | 21/04/05 |  string 라이브러리 |
+
+#### 백준 추가 문제
+
+|no|문제|파일명|날짜|비고|
+|-----|------------------------------------------------------------------|----------|----------|-------------------------|
+| 001 | [10818번: 최소, 최대](https://www.acmicpc.net/problem/10818)    | array_10818.cpp | 21/05/14 |  if문과 ifelse문 처리  |
+| 002 | [2562번: 최댓값](https://www.acmicpc.net/problem/2562)             | array_2562.cpp | 21/05/14  |   |
+| 003 | [8958번: OX퀴즈](https://www.acmicpc.net/problem/8958)        | 8958.cpp | 21/05/14  |   |
+| 004 | [2577번: 숫자의 개수](https://www.acmicpc.net/problem/2577)        | 2577.cpp | 21/05/14  |  to_string, int to char |
+
