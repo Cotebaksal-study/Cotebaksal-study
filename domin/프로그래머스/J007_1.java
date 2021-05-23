@@ -1,22 +1,29 @@
-//[약수개수 덧셈]
+//[제일작은수 제거]
 class Solution {
-    public int solution(int left, int right) {
-        int answer = 0;
-        
-        for(int i = left; i <= right; i++){
-            // 각 약수개수
-            int cnt = 0;
-            for(int j = 1; j <= i; j++ ){
-                if(i % j ==0){
-                    cnt++;
+    public int[] solution(int[] arr) {
+        int[] answer = new int[arr.length];
+        if(arr.length == 1){
+            answer[0] = -1;
+        }
+        else{
+            answer = new int[arr.length-1];
+            int min = arr[0];
+            for(int i = 0 ; i< arr.length; i++){
+                if(min > arr[i]){  
+                    min = arr[i];
                 }
             }
-            if(cnt % 2 == 0)    answer += i;
-            else                answer -= i;
-            
+            int idx= 0;
+            for(int i = 0; i < arr.length; i++){
+                if(min == arr[i]){
+                    continue;
+                }else{
+                    answer[idx] = arr[i];
+                    idx++;
+                }
+            }
             
         }
-        
         return answer;
     }
 }
