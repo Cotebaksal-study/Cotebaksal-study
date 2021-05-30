@@ -10,7 +10,10 @@
 | 3주차<br/> (04.19~04.25) | [1차원 배열](https://www.acmicpc.net/step/6)<br/>[함수](https://www.acmicpc.net/step/5)            | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944?language=java)<br/>[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931?language=java)<br/>[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)<br/>[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910) |
 | 4주차<br/> (04.26~05.02) | [문자열](https://www.acmicpc.net/step/5)</br>         |[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)<br/>[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)<br/>[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)  |
 | 5주차<br/> (05.03~05.09) | [기본수학1](https://www.acmicpc.net/step/8)</br>         | [문자열내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)<br/>[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)<br/>[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)<br/>[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) |
-| 6주차<br/> (05.10~05.16) | [기본수학1](https://www.acmicpc.net/step/9)</br>         | |
+| 6주차<br/> (05.10~05.16) | [기본수학1](https://www.acmicpc.net/step/9)</br>         | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)<br/>[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)<br/>[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|
+| 7주차<br/> (05.10~05.16) | [기본수학2](https://www.acmicpc.net/step/10)<br/>        |[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)<br/>[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)<br/>[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) |
+| 8주차<br/> (05.10~05.16) | [재귀](https://www.acmicpc.net/step/19)<br/>[브루트 포스](https://www.acmicpc.net/step/22)        |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)<br/>[정수내림차순](https://programmers.co.kr/learn/courses/30/lessons/12933)<br/>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
+ |
 
 ## 푼 문제
 [CoteBakSal](https://www.notion.so/0dda0cc4b3274c22a0fc9bec578e95ca)
