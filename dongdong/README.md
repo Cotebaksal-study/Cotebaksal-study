@@ -27,11 +27,19 @@
 | 015 | [1193:  분수 찾기](https://www.acmicpc.net/problem/1193)            | math1_1193.cpp | 21/05/10 |  |
 | 016 | [10250:  ACM 호텔](https://www.acmicpc.net/problem/10250)            | math1_10250.cpp | 21/05/12 | cout.widh() , cout.fill() |
 | 017 | [2292:  벌집](https://www.acmicpc.net/problem/2292)            | math1_2292.cpp | 21/05/14 | 등비수열 |
+||||||||||
+| 018 | [1978:  소수 찾기](https://www.acmicpc.net/problem/1978)            | math2_1978.cpp | 21/05/18 |  |
+| 019 | [9020:  골드바흐의 추측](https://www.acmicpc.net/problem/9020)            | math2_9020.cpp | 21/05/23 | 아리스토테네스의 채 |
+||||||||||
+| 020 | [10870:  피보나치 수 5](https://www.acmicpc.net/problem/10870)            | resursion_10870.cpp | 21/05/24 |  |
+| 021 | [7568:  덩치](https://www.acmicpc.net/problem/7568)                     | brute_force_7568.cpp | 21/05/28 |  |
+| 022 | [2231 :  분배합](https://www.acmicpc.net/problem/2231 )                     | brute_force_2231.cpp | 21/05/28 |  |
 #### 프로그래머스
 
 |no|문제|파일명|날짜|비고|
 |-----|------------------------------------------------------------------|----------|----------|-------------------------|
-| 001 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)    | programmers_신규아이디추천.cpp | 21/04/05 |  string 라이브러리 |
+| 001 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)    | programmers_신규아이디추천.cpp | 21/04/05 | string 라이브러리 |
+| 002 | [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)    | programmers_체육복.cpp | 21/05/30 |  |
 
 #### 백준 추가 문제
 
