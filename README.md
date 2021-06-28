@@ -16,7 +16,7 @@
 | 9주차<br/> (05.31~06.06) | [정렬](https://www.acmicpc.net/step/9)<br/>      |[k번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)<br/>[문자열 내맘대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)<br/>[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)<br/>[문자열 내림차순 배치](https://programmers.co.kr/learn/courses/30/lessons/12917) |
 | 10주차<br/> (06.07~06.13) | [정렬](https://www.acmicpc.net/step/19)        |[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)<br/>[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)<br/>[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) |
 | 10주차<br/> (06.14~06.20) | [백트래킹](https://www.acmicpc.net/step/34)        |[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)<br/>[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)<br/>[비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |
-| 10주차<br/> (06.14~06.20) | [동적계획법](https://www.acmicpc.net/step/16)        |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)<br/>[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)<br/>[다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) |
+| 10주차<br/> (06.21~06.27) | [동적계획법](https://www.acmicpc.net/step/16)        |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)<br/>[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)<br/>[다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682) |
 
 ## 푼 문제
 [CoteBakSal](https://www.notion.so/0dda0cc4b3274c22a0fc9bec578e95ca)
